@@ -11,7 +11,8 @@
 ## Mathematics
 
 1. :thumbsup: [The Princeton Companion to Mathematics](https://www.amazon.com/Princeton-Companion-Mathematics-Timothy-Gowers/dp/0691118809)
-
+1. [Mathematics: A Very Short Introduction](https://www.amazon.com/Mathematics-Short-Introduction-Timothy-Gowers/dp/0192853619)
+1. [Mathematical Thought From Ancient to Modern Times](https://www.amazon.com/Mathematical-Thought-Ancient-Modern-Times-ebook/dp/B0058C6F0E/)
 
 ## Computer Science
 
