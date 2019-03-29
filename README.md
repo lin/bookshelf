@@ -2,7 +2,7 @@
 
 ## Computer Science Textbooks
 
-1. :thumbsup: [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+1. [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 1. :thumbsup: [The Elements of Computer Systems (Nand2Tetris)](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
 1. :thumbsup: [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 1. :thumbsup: [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/)
