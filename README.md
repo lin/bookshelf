@@ -33,3 +33,9 @@ History is another topic that I am thrilled at, finding the patterns occurs in t
 ## Artificial Intelligence
 
 1. [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618?ref_=fsclp_pl_dp_1)
+
+## Personal Development
+
+1.  :thumbsup: [Mindset: The New Psychology of Success](https://www.amazon.com/dp/B000FCKPHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+1.  :thumbsup: [Nine Things Successful People Do Differently](https://www.amazon.com/Nine-Things-Successful-People-Differently-ebook/dp/B073SCL2GJ/)
+1.  :thumbsup: [How To Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/)
