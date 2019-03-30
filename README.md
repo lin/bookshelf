@@ -54,5 +54,6 @@ History is another topic that I am thrilled at, finding the patterns occurs in t
 1.  :thumbsup: [Mindset: The New Psychology of Success](https://www.amazon.com/dp/B000FCKPHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 1.  :thumbsup: [Nine Things Successful People Do Differently](https://www.amazon.com/Nine-Things-Successful-People-Differently-ebook/dp/B073SCL2GJ/)
 1.  :thumbsup: [How To Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/)
+1. :thumbsup: [Eat That Frog!](https://www.amazon.com/Eat-That-Frog-Twenty-one-Procrastinating/dp/0792754840) :frog: 
 
 
