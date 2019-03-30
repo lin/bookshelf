@@ -1,5 +1,13 @@
 # Bookshelf
 
+More and more, I realize that my interests are lying between the foundation of mathematics and computer science.
+
+I like to create stuff out of nothing by coding and designing and figure out the nature of things.
+
+Intelligence, both artificial and educational, are core to my lifelong pursuit. Building a solver will be my next project when I succeed in online education, maybe five years later.
+
+History is another topic that I am thrilled at, finding the patterns occurs in the past has a hugh impact to understand the current affairs and reduces the complexity of real world problems.
+
 ## Computer Science Textbooks
 
 1. [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
