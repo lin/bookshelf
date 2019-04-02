@@ -30,10 +30,11 @@ History is another topic that I am thrilled at, finding the patterns occurs in t
 1. :thumbsup:  [Mathematical Thought From Ancient to Modern Times](https://www.amazon.com/Mathematical-Thought-Ancient-Modern-Times-ebook/dp/B0058C6F0E/)
 1. :thumbsup: [Gödel's Proof](https://www.amazon.com/G%C3%B6dels-Proof-Ernest-Nagel/dp/0814758371)
 
-## Computer Science (Popular Literature)
+## Computer Science & Artificial Intelligence (Popular Literature)
 
 1. :thumbsup: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)
 1. :thumbsup: [Probably Approximately Correct](https://www.amazon.com/Probably-Approximately-Correct-Algorithms-Prospering/dp/0465032710)
+1. :thumbsup: [The Master Algorithm](https://www.amazon.com/dp/B012271YB2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 1. [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
 1. [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/dp/B00JDMPOK2/)
 
